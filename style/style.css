@@ -1,0 +1,75 @@
+header{
+    background-color: blue;
+    padding: 16px;
+    text-align: end;
+}
+
+
+
+header a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color: white;
+    margin: 0;
+}
+
+main{
+    background-color: blueviolet;
+    margin: 16px;
+    padding: 40px;
+    color: white;
+    
+}
+
+#psanicko{
+    text-align: center;
+    justify-content: center;
+}
+
+#chatbox{
+    color: white;
+}
+
+#nadpis{
+    text-align: center;
+    color: white;
+}
+
+.zpravicky{
+    padding: 5px;
+}
+
+#vec1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 16px;
+}
+
+#vec2{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 16px;
+}
+
+#vec3{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 16px;
+}
+
+footer{
+    background-color: rgb(10, 151, 151);
+    
+}
